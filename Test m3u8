@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Canal.TNT.(México).mx" tvg-logo="https://i.imgur.com/kTBgzAA.png",TNT
-#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+#EXTHTTP:{"Referer":"https://www.izzigo.tv/"}
+#EXTHTTP:{"User-Agent":"User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37""}
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dca8597f12f8d6928b55c1291c7bb300:36c8b3f51d474b95f0adad70899343e1
 https://live-atv-cdn.izzigo.tv/2/out/u/dash/TNT-HD/default.mpd
