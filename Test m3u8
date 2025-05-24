@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1,Test: GINX
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5fd24b691f5e5108a4b9bfaf70066463:9d54422436550ad2dbb979546a0caf71​
+https://cors.jugorder.de/https://dish.akamaized.net/Content/DASH/Live/channel(ginxesportstvhd)/manifest.mpd
